@@ -1,5 +1,5 @@
 # ArcadeCarControls-UNITY
-Here is some C# script that you can add to any game object to make it have some vehicular controls without the need of wheel colliders
+Here is a C# script that you can add to any game object to make it have some vehicular controls without the need of wheel colliders
 
 # How to use?
 - create a rectangular prism and name it "Car", give it a rigidBody and a collider
