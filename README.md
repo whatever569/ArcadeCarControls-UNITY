@@ -3,7 +3,7 @@ Here is a C# script that you can add to any game object to make it have some veh
 
 # How to use?
 - create a rectangular prism and name it "Car", give it a rigidBody and a collider
-- create an empty game object and name it "Ground detector ray", preferably right under your "Car"
+- create an empty game object and name it "Ground detector ray", preferably right under your "Car", also, make it the child of your car
 - create a new layer named "floor" and make your ground part of that layer
 - drop this script onto your "Car", then, drop your "Ground detector ray" in the "Ray Pos" spot, then make the new layer that you made "floor" the "Floor layer"
 - *Optional* if you want to use a car model, make that model a child of "Car" and adjust the colliders and the position of the "Ground ray detector" based on your needs
